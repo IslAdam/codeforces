@@ -1,0 +1,7 @@
+C:/Users/ASUS/Desktop/cfcpp/geom/out/build/x64-debug/CMakeFiles/complex.test.dir
+C:/Users/ASUS/Desktop/cfcpp/geom/out/build/x64-debug/CMakeFiles/pendulum.dir
+C:/Users/ASUS/Desktop/cfcpp/geom/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Desktop/cfcpp/geom/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ASUS/Desktop/cfcpp/geom/out/build/x64-debug/complex/CMakeFiles/complex.dir
+C:/Users/ASUS/Desktop/cfcpp/geom/out/build/x64-debug/complex/CMakeFiles/edit_cache.dir
+C:/Users/ASUS/Desktop/cfcpp/geom/out/build/x64-debug/complex/CMakeFiles/rebuild_cache.dir
